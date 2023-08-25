@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>FTP com Python</title>
-</head>
-<body>
-
 <h1>FTP com Python</h1>
 
 <p>
@@ -126,6 +118,3 @@ window.onSave(on_save)
 <p>
 Este código irá imprimir a mensagem "Um arquivo foi salvo!" sempre que um arquivo for salvo no Visual Studio Code.
 </p>
-
-</body>
-</html>
